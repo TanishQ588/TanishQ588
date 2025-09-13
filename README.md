@@ -1,16 +1,23 @@
-## Hi there 👋
+🚀 About Me
 
-<!--
-**TanishQ588/TanishQ588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I’m Tanishq Yadav
+🎓 B.Tech CSE (Artificial Intelligence & Data Science)
+💻 Frontend Developer | Java Enthusiast | DSA Learner
+🌱 Exploring Data Structures & Algorithms to strengthen problem-solving
+⚡ Passionate about coding, innovation, and building impactful projects
 
-Here are some ideas to get you started:
+----------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+
+Languages: Java · C++ · JavaScript · HTML · CSS
+Frontend: React.js (learning) · HTML5 · CSS3
+Core Skills: Frontend Development · OOP in Java · Data Structures & Algorithms
+
+---------------------------------------------------------------------------------------------
+
+📈 Current Focus
+
+🚀 Mastering DSA in Java
+💡 Building frontend-focused projects
+🔎 Exploring new technologies to solve real-world problems
