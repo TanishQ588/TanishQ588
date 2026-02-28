@@ -1,23 +1,51 @@
-## 🚀 About Me  
+# 🚀 About Me
 
-👋 I’m **Tanishq Yadav**  
-🎓 B.Tech CSE (Artificial Intelligence & Data Science)  
-💻 Frontend Developer | Java Enthusiast | DSA Learner  
-🌱 Exploring Data Structures & Algorithms to strengthen problem-solving  
-⚡ Passionate about coding, innovation, and building impactful projects  
-
----
-
-## 🛠 Tech Stack  
-
-- **Languages:** Java · C++ · JavaScript · HTML · CSS  
-- **Frontend:** React.js (learning) · HTML5 · CSS3  
-- **Core Skills:** Frontend Development · OOP in Java · Data Structures & Algorithms  
+👋 Hi, I'm Tanish Yadav  
+🎓 B.Tech CSE (Artificial Intelligence & Data Science) Student  
+💻 MERN Stack Developer | Java & DSA Learner  
+📚 Exploring Full-Stack Web Development and building real-world projects  
+⚡ Passionate about coding, innovation, and solving real-world problems through technology  
 
 ---
 
-## 📈 Current Focus  
+## 🛠️ Tech Stack
 
-- 🚀 Mastering **DSA in Java**  
-- 💡 Building **frontend-focused projects**  
-- 🔎 Exploring **new technologies** to solve real-world problems  
+### 💻 Languages
+- Java
+- C++
+- JavaScript
+- HTML5
+- CSS3
+
+### 🚀 Frontend
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+### 🔧 Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+
+### ⚙️ Tools & Technologies
+- Git & GitHub
+- VS Code
+- REST APIs
+- Postman
+
+---
+
+## 🎯 Current Focus
+- 🔥 Mastering MERN Stack Development
+- 📊 Strengthening Data Structures & Algorithms in Java
+- 🌍 Building real-world full-stack projects
+- 🚀 Preparing for Open Source & GSoC
+
+---
+
+## 📈 Goals
+- Become a skilled Full-Stack MERN Developer
+- Contribute to Open Source Projects
+- Build impactful real-world applications that help people
